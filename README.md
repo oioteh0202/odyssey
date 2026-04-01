@@ -1,2 +1,0 @@
-# odyssey
-codeyssey repository
